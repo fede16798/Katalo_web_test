@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddCustomer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b41b3df0-acb0-4d8b-b532-bf61e2a6b229</testCaseGuid>
+   <variable>
+      <defaultValue>'Juan'</defaultValue>
+      <description></description>
+      <id>8a2f1891-03ab-466b-91b5-5564fd13bd35</id>
+      <masked>false</masked>
+      <name>nombre</name>
+   </variable>
+   <variable>
+      <defaultValue>'Perez'</defaultValue>
+      <description></description>
+      <id>448f4ed8-ba2e-4ce9-a691-c16814aa4732</id>
+      <masked>false</masked>
+      <name>apellido</name>
+   </variable>
+   <variable>
+      <defaultValue>'1460'</defaultValue>
+      <description></description>
+      <id>14b4eb8b-2515-4351-b37c-c549079a921f</id>
+      <masked>false</masked>
+      <name>codPostal</name>
+   </variable>
+</TestCaseEntity>

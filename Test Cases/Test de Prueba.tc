@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test de Prueba</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abdda752-fd67-4fab-b13d-bba850b7537d</testCaseGuid>
+   <variable>
+      <defaultValue>'angular'</defaultValue>
+      <description></description>
+      <id>ce8b2296-7fb6-4b78-b7b3-ef5642012cdf</id>
+      <masked>false</masked>
+      <name>usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>c5f0782e-3b52-413d-85ff-488c5716aa7d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'prueba'</defaultValue>
+      <description></description>
+      <id>4334162f-5b9c-4bbf-ad76-b70bd62afc54</id>
+      <masked>false</masked>
+      <name>nombre</name>
+   </variable>
+</TestCaseEntity>
